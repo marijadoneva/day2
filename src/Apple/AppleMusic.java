@@ -6,4 +6,5 @@ public class AppleMusic {
     //modify Apple Music
 
     //play button
+    //add pause button
 }
